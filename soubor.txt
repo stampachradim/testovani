@@ -1,3 +1,5 @@
 ﻿text souboru
 Žluťoučký kůň
 sedlo
+jezdec
+uzda
