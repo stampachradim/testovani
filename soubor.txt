@@ -3,3 +3,4 @@
 sedlo
 jezdec
 uzda
+podkovy
