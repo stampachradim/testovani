@@ -1,6 +1,7 @@
 ﻿text souboru 2
 Žluťoučký kůň.
 jezdkyně
+sedlo
 uzda
 podkovy
 bičík
