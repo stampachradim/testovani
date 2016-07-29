@@ -1,3 +1,6 @@
 Není zcela prázdný.
 Jsou zde už dva øádky.
 A další.
+
+
+Nový øádek pøidaný do hlavní verze.¨
