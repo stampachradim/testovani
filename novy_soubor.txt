@@ -1,3 +1,6 @@
 Není zcela prázdný.
 Jsou zde už dva øádky.
 A další.
+
+
+Pøi tvorbì exerimentálního pluginu se musí dodat tento øádek, který tam jinak není.
