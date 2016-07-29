@@ -3,4 +3,8 @@ Jsou zde u dva øádky.
 A další.
 
 
-Novı øádek pøidanı do hlavní verze.¨
+
+Novı øádek pøidanı do hlavní verze.
+
+Pøi tvorbì exerimentálního pluginu se musí dodat tento øádek, kterı tam jinak není.
+
