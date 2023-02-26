@@ -10,9 +10,7 @@ package com.mycompany.testovani;
 public class Testovani {
 
     public static void main(String[] args) {
-        System.out.println("Hello World and Good Bye, you bastards!");
-        //Linie navíc
-        System.out.println("Ještě jedna linie navíc!");
+        System.out.println("Hello World and Good Bye!");
     }
     
     

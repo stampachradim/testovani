@@ -9,5 +9,5 @@ package com.mycompany.testovani;
  * @author spravce
  */
 public class AddSkipIndex {
-    
+    //Add bez indexu
 }
