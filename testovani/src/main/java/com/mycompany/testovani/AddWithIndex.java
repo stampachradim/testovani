@@ -8,6 +8,6 @@ package com.mycompany.testovani;
  *
  * @author spravce
  */
-public class AddIndex {
-    
+public class AddWithIndex {
+    //přes index
 }
